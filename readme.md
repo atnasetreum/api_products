@@ -31,3 +31,4 @@ Los recursos que se pueden encontrar:
 
 ## Enlaces de prueba
 - **[Recuperar todos los productos](http://apiproducts.eduardodomgar.xyz/api/v1/products)**
+- <a href="http://apiproducts.eduardodomgar.xyz/api/v1/products" target="_blank">Recuperar todos los productos</a>
