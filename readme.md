@@ -19,6 +19,7 @@ Los recursos que se pueden encontrar:
 - Database: Seeding
 - Using Model Factories
 - Eloquent
+- Soft Deleting
 - Database: Migrations
 - Routing: apiResource
 - JSON Responses
@@ -27,3 +28,6 @@ Los recursos que se pueden encontrar:
 - Model Product tabla = products con atributos code y description
 - Modificación del Kernel para 50 peticiones por minuto
 - Traduccion en español de la validaciones
+
+## Enlaces de prueba
+- **[Recuperar todos los productos](http://apiproducts.eduardodomgar.xyz/api/v1/products)**

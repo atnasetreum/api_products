@@ -1,0 +1,4 @@
+host      : mysql.hostinger.mx
+db        : u815656931_api
+user      : u815656931_root
+contraseña: V!FPKEBhlYu5@/`|I4
