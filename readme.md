@@ -31,15 +31,16 @@ Los recursos que se pueden encontrar:
 
 ## Enlaces de prueba
 - **[Recuperar todos los productos en formato JSON](http://apiproducts.eduardodomgar.xyz/api/v1/products)**
-<p align="center"><img src="public/img/all.png"></p>
 - **[Recuperar un producto por medio de su ID en formato JSON](http://apiproducts.eduardodomgar.xyz/api/v1/products/1)**
-<p align="center"><img src="public/img/product.png"></p>
 - Para la creación de un producto se tiene que enviar por el metodo POST a la url http://apiproducts.eduardodomgar.xyz/api/v1/products
 Acepta dos parametros code y description los cuales aplica validaciones como que el código no sea mayor a 10 digitos y que estos valores no vengan vacios.
-<p align="center"><img src="public/img/create.png"></p>
 - Para la edicion del producto se debe de hacer por el metodo PUT http://apiproducts.eduardodomgar.xyz/api/v1/products/?id_del_producto
 Acepta dos parametros code y description los cuales aplica validaciones como que el código no sea mayor a 10 digitos y que estos valores no vengan vacios.
-<p align="center"><img src="public/img/edit.png"></p>
 - Para la eliminación del producto se debe de hacer por el metodo DELETE http://apiproducts.eduardodomgar.xyz/api/v1/products/?id_del_producto
 Con el ID del poducto al final de la url para realizar un soft delete en la base de datos.
+
+<p align="center"><img src="public/img/all.png"></p>
+<p align="center"><img src="public/img/product.png"></p>
+<p align="center"><img src="public/img/create.png"></p>
+<p align="center"><img src="public/img/edit.png"></p>
 <p align="center"><img src="public/img/delete.png"></p>
