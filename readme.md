@@ -39,6 +39,7 @@ Acepta dos parametros code y description los cuales aplica validaciones como que
 - Para la eliminación del producto se debe de hacer por el metodo DELETE http://apiproducts.eduardodomgar.xyz/api/v1/products/?id_del_producto
 Con el ID del poducto al final de la url para realizar un soft delete en la base de datos.
 
+## Imagenes de muestra de los procesos con la herramienta de POSTMAN
 <p align="center"><img src="public/img/all.png"></p>
 <p align="center"><img src="public/img/product.png"></p>
 <p align="center"><img src="public/img/create.png"></p>
