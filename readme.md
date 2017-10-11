@@ -40,6 +40,7 @@ Acepta dos parametros code y description los cuales aplica validaciones como que
 Con el ID del poducto al final de la url para realizar un soft delete en la base de datos.
 
 ## Imagenes de muestra de los procesos con la herramienta de POSTMAN
+- En el mismo orden de la descripción anterior.
 <p align="center"><img src="public/img/all.png"></p>
 <p align="center"><img src="public/img/product.png"></p>
 <p align="center"><img src="public/img/create.png"></p>
